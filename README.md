@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F70000&random=true&width=435&lines=I'm+Frontend+React+developer;I'm+Information+Security+Specialist)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F70000&random=true&width=435&lines=I'm+a+Frontend+React+Developer;I'm+an+Information+Security+Specialis)](https://git.io/typing-svg)
 
 - 🌱 I’m currently improving my skills and creating new pet-projects
 - 📚 In my free time, I play chess and engage in sports
