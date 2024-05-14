@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F70000&random=true&width=435&lines=I'm+Frontend+React+developer;I'm+Information+Security+Specialist)](https://git.io/typing-svg)
 
+My stack
+💻 Codewars
+________________________________________________________________________________________________________________________________________________________________________________
 ![codewars](https://www.codewars.com/users/0IceMeat0/badges/large)
 <!--
 **0IceMeat0/0IceMeat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
