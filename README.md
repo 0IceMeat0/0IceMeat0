@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/0IceMeat0)
+[![codewars](https://www.codewars.com/users/0IceMeat0/badges/large)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <!--
 **0IceMeat0/0IceMeat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
