@@ -5,11 +5,32 @@
 
 - 🌱 I’m currently improving my skills and creating new pet-projects
 - 📚 In my free time, I play chess and engage in sports
-- 🧩 I like to solve puzzles and I solve codewars kata regularly Codewars ![codewars](https://www.codewars.com/users/0IceMeat0/badges/micro)
+- 🧩 I like to solve puzzles and I solve codewars kata regularly Codewars ![codewars](https://www.codewars.com/users/0IceMeat0/badges/small)
 
 ### 💻 Tech Stack
 ________________________________________________________________________________________________________________________________________________________________________________
-TypeScript  JavaScript  Angular  RxJS  Nodejs  HTML5  CSS3  Webpack  Docker  npm  Prettier  ESLint 
+JavaScript
+React
+TypeScript
+Redux
+HTML5
+CSS3
+Webpack
+Vite
+RTK Query
+Axios
+Git
+Sass
+Css-module
+Jest
+React Testing Library
+React hook form
+yup
+React Router
+ESLint
+Prettier
+AntD
+Scrum
 
 
 <!--
