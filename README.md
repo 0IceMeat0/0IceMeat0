@@ -26,8 +26,6 @@
 - Yup
 - React Router
 - Ant Design
-  
----
 
 Tools:
 - Git
