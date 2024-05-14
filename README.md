@@ -26,6 +26,7 @@
 - Yup
 - React Router
 - Ant Design
+- Next.js
 
 Tools:
 - Git
