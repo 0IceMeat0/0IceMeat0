@@ -8,29 +8,33 @@
 - 🧩 I like to solve puzzles and I solve codewars kata regularly Codewars ![codewars](https://www.codewars.com/users/0IceMeat0/badges/small)
 
 ### 💻 Tech Stack
-________________________________________________________________________________________________________________________________________________________________________________
-JavaScript 
-React 
-TypeScript 
-Redux 
-HTML5 
-CSS3 
-Webpack 
-Vite 
-RTK Query 
-Axios 
-Git 
-Sass 
-Css-module 
-Jest 
-React Testing Library 
-React hook form 
-yup 
-React Router 
-ESLint 
-Prettier 
-AntD 
-Scrum 
+_____________________________________________________________________________________________________________________________________________________________________________
+Frontend:
+- JavaScript
+- React
+- TypeScript
+- Redux
+- HTML5
+- CSS3
+- Sass
+
+---
+
+Backend:
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- GraphQL
+
+---
+
+Tools:
+- Git
+- Webpack
+- ESLint
+- Prettier
+- Jest
 
 
 <!--
