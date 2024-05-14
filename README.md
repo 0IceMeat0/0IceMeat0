@@ -8,30 +8,31 @@
 - 🧩 I like to solve puzzles and I solve codewars kata regularly Codewars ![codewars](https://www.codewars.com/users/0IceMeat0/badges/small)
 
 ### 💻 Tech Stack
-_____________________________________________________________________________________________________________________________________________________________________________
-Frontend:
+---
+
+**Frontend:**
 - JavaScript
 - React
 - TypeScript
 - Redux
 - HTML5
 - CSS3
+- RTK Query
+- Axios
 - Sass
-
----
-
-Backend:
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- GraphQL
-
+- CSS Modules
+- React Testing Library
+- React Hook Form
+- Yup
+- React Router
+- Ant Design
+  
 ---
 
 Tools:
 - Git
 - Webpack
+- Vite
 - ESLint
 - Prettier
 - Jest
