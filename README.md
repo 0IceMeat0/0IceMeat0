@@ -9,28 +9,28 @@
 
 ### 💻 Tech Stack
 ________________________________________________________________________________________________________________________________________________________________________________
-JavaScript
-React
-TypeScript
-Redux
-HTML5
-CSS3
-Webpack
-Vite
-RTK Query
-Axios
-Git
-Sass
-Css-module
-Jest
-React Testing Library
-React hook form
-yup
-React Router
-ESLint
-Prettier
-AntD
-Scrum
+JavaScript 
+React 
+TypeScript 
+Redux 
+HTML5 
+CSS3 
+Webpack 
+Vite 
+RTK Query 
+Axios 
+Git 
+Sass 
+Css-module 
+Jest 
+React Testing Library 
+React hook form 
+yup 
+React Router 
+ESLint 
+Prettier 
+AntD 
+Scrum 
 
 
 <!--
