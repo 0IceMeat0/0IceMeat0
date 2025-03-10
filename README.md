@@ -12,20 +12,24 @@
 **Frontend:**
 - JavaScript
 - React
+- NextJs
+- NodeJs
+- Express
 - TypeScript
+- Docker
 - Redux
+- Mobx
 - HTML5
 - CSS3
 - RTK Query
 - Axios
 - Sass
 - CSS Modules
-- React Testing Library
+
 - React Hook Form
 - Yup
 - React Router
-- Ant Design
-- Next.js
+
 
 Tools:
 - Git
@@ -34,7 +38,7 @@ Tools:
 - ESLint
 - Prettier
 - Jest
-
+- React Testing Library
 
 <!--
 **0IceMeat0/0IceMeat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
