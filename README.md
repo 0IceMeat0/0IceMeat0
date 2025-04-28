@@ -17,6 +17,8 @@
 - Express
 - TypeScript
 - Docker
+- FunC
+- Rust -_-
 - Redux
 - Mobx
 - HTML5
@@ -25,7 +27,6 @@
 - Axios
 - Sass
 - CSS Modules
-
 - React Hook Form
 - Yup
 - React Router
@@ -38,6 +39,7 @@ Tools:
 - ESLint
 - Prettier
 - Jest
+- Vitest
 - React Testing Library
 
 <!--
