@@ -9,39 +9,34 @@
 ### 💻 Tech Stack
 ---
 
-**Frontend:**
-- JavaScript
-- React
-- NextJs
-- NodeJs
-- Express
-- TypeScript
-- Docker
-- FunC
-- Rust -_-
-- Redux
-- Mobx
-- HTML5
-- CSS3
-- RTK Query
-- Axios
-- Sass
-- CSS Modules
-- React Hook Form
-- Yup
-- React Router
+## 🧠 Tech Stack
 
+### 🖥️ Frontend
+- **Languages & Frameworks**: JavaScript, TypeScript, HTML5, CSS3
+- **Libraries & Tools**: React, Next.js, Redux, MobX, RTK Query, Axios
+- **Styling**: Sass, CSS Modules, React Hook Form, Yup, CSS3
+- **Routing**: React Router
 
-Tools:
-- Git
-- Webpack
-- Vite
-- ESLint
-- Prettier
-- Jest
-- Vitest
-- React Testing Library
+### 🖥️ Backend
 
+- **Languages & Runtimes**: Node.js, TypeScript
+- **Frameworks**: Express, NestJS
+- **Databases**: PostgreSQL
+- **Containerization**: Docker
+- **Others**: REST API, WebSocket
+
+### 🔗 Blockchain Development
+
+- **Smart Contracts**: FunC, Solidity
+- **Blockchain Platforms**: TON, Ethereum
+- **Tools**: Hardhat, Ethers.js, TonWeb, TonCore
+- **Other**: Rust 🙃
+
+### 🛠️ Tooling & Testing
+- **Build Tools**: Webpack, Vite
+- **Linting & Formatting**: ESLint, Prettier
+- **Version Control**: Git
+- **Testing**: Jest, Vitest, React Testing Library
 <!--
 **0IceMeat0/0IceMeat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
