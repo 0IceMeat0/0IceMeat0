@@ -6,9 +6,6 @@
 - 📚 In my free time, I play chess and engage in sports
 - 🧩 I like to solve puzzles and I solve codewars kata regularly Codewars ![codewars](https://www.codewars.com/users/0IceMeat0/badges/small)
 
-### 💻 Tech Stack
----
-
 ## 🧠 Tech Stack
 
 ### 🖥️ Frontend
