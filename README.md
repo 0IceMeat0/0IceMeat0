@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&pause=1000&color=F70000&random=true&width=460&lines=I%27m+a+Frontend+Developer;I%27m+a+Cybersecurity+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&background=1CFF9700&width=435&lines=I'm+a+Frontend+Developer;I'm+a+Smart+contract+developer;I'm+a++Security+Software+Developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently improving my skills and creating new pet-projects
-- 📚 In my free time, I play chess and engage in sports
-- 🧩 I like to solve puzzles and I solve codewars kata regularly Codewars ![codewars](https://www.codewars.com/users/0IceMeat0/badges/small)
+- I’m currently improving my skills and creating new pet-projects
+- In my free time, I play chess and engage in sports
+- I like to solve puzzles and I solve codewars kata regularly Codewars ![codewars](https://www.codewars.com/users/0IceMeat0/badges/small)
 
 ## 🧠 Tech Stack
 
